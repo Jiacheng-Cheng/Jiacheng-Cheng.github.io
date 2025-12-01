@@ -27,25 +27,25 @@ My research insterests are focused on machine learning and its applications (e.g
     <div style="margin-bottom: 10px;">
         <strong>Learning a Dynamic Privacy-preserving Camera Robust to Inversion Attacks</strong><br>
         <em>Jiacheng Cheng</em> (✉️), Xiang Dai, Jia Wan, Nick Antipa, Nuno Vasconcelos<br>
-        ECCV 2024 <span style="color:red; font-weight:bold;">(Oral Presentation)</span>  | <a href="#">[PDF]</a>
+        ECCV 2024 <span style="color:red; font-weight:bold;">(Oral Presentation)</span>  |  <a href="../papers/eccv24.pdf">[PDF]</a>
     </div>
 
     <div style="margin-bottom: 10px;">
         <strong>Towards Calibrated Multi-label Deep Neural Networks</strong><br>
         <em>Jiacheng Cheng</em> (✉️) and Nuno Vasconcelos<br>
-        CVPR 2024 | <a href="#">[PDF]</a>
+        CVPR 2024 |  <a href="../papers/cvpr24.pdf">[PDF]</a>
     </div>
 
     <div style="margin-bottom: 10px;">
         <strong>Calibrating Deep Neural Networks by Pairwise Constraints</strong><br>
         <em>Jiacheng Cheng</em> (✉️), Nuno Vasconcelos<br>
-        CVPR 2022 <span style="color:red; font-weight:bold;">(Oral Presentation)</span> | <a href="#">[PDF]</a>
+        CVPR 2022 <span style="color:red; font-weight:bold;">(Oral Presentation)</span> |  <a href="../papers/cvpr22.pdf">[PDF]</a>
     </div>
 
     <div style="margin-bottom: 10px;">
         <strong>Learning Deep Classifiers Consistent with Fine-Grained Novelty Detection</strong><br>
         <em>Jiacheng Cheng</em> (✉️), Nuno Vasconcelos<br>
-        CVPR 2021 | <a href="#">[PDF]</a>
+        CVPR 2021 |  <a href="../papers/cvpr21.pdf">[PDF]</a>
     </div>
 
     <div style="margin-bottom: 10px;">
