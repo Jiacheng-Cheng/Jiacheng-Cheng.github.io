@@ -21,7 +21,7 @@ My research insterests are focused on machine learning and its applications (e.g
     <div style="margin-bottom: 10px;">
         <strong>EgoPrivacy: What Your First-Person Camera Says About You</strong><br>
         Yijiang Li, Genpei Zhang, <em>Jiacheng Cheng</em> (✉️), Yi Li, Xiaojun Shan, Dashan Gao, Jiancheng Lyu, Yuan Li, Ning Bi, Nuno Vasconcelos<br>
-        ICML 2025  | 
+        ICML 2025  | <a href="https://proceedings.mlr.press/v267/li25ds.html">[PMLR]</a> 
     </div>
     
     <div style="margin-bottom: 10px;">
