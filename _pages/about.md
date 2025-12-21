@@ -38,7 +38,7 @@ My research interests broadly span machine learning, computer vision, and imagin
     <div style="margin-bottom: 10px;">
         <strong>Towards Calibrated Multi-label Deep Neural Networks</strong><br>
         <em>Jiacheng Cheng</em> (✉️) and Nuno Vasconcelos<br>
-        CVPR 2024 |  <a href="../assets/papers/cvpr24.pdf">[PDF]</a> |  <a href="">[CODE]</a>
+        CVPR 2024 |  <a href="../assets/papers/cvpr24.pdf">[PDF]</a> |  <a href="https://github.com/JiachengCheng96/Towards-Calibrated-Multi-label-Deep-Neural-Networks">[CODE]</a>
     </div>
 
     <div style="margin-bottom: 10px;">
@@ -50,13 +50,13 @@ My research interests broadly span machine learning, computer vision, and imagin
     <div style="margin-bottom: 10px;">
         <strong>Learning Deep Classifiers Consistent with Fine-Grained Novelty Detection</strong><br>
         <em>Jiacheng Cheng</em> (✉️), Nuno Vasconcelos<br>
-        CVPR 2021 |  <a href="../assets/papers/cvpr21.pdf">[PDF]</a> |  <a href="">[CODE]</a>
+        CVPR 2021 |  <a href="../assets/papers/cvpr21.pdf">[PDF]</a> |  <a href="https://github.com/JiachengCheng96/Learning-Deep-Classifiers-Consistent-with-Fine-Grained-Novelty-Detection">[CODE]</a>
     </div>
 
     <div style="margin-bottom: 10px;">
         <strong>Learning with Bounded Instance- and Label-dependent Label Noise</strong><br>
         <em>Jiacheng Cheng</em>, Tongliang Liu, Kotagiri Ramamohanarao, Dacheng Tao<br>
-        ICML 2020 | <a href="https://proceedings.mlr.press/v119/cheng20c.html">[PMLR]</a> | <a href="../assets/papers/icml20.pdf">[PDF]</a> |  <a href="">[CODE]</a>
+        ICML 2020 | <a href="https://proceedings.mlr.press/v119/cheng20c.html">[PMLR]</a> | <a href="../assets/papers/icml20.pdf">[PDF]</a> |  <a href="https://github.com/JiachengCheng96/Learning-with-bounded-instance-and-label-dependent-label-noise">[CODE]</a>
     </div>
 
     <div style="font-size: 14px; margin-top: 15px;">
