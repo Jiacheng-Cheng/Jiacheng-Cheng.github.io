@@ -19,7 +19,8 @@ I am currently a Postdoctoral Researcher at Yale University, advised by [Tara Bo
 
 # Research Interests
 
-My research insterests are focused on machine learning and its applications (e.g. computer vision, imaging, etc). A list of my selected publications is below. The full list can be found at [Google Scholar](https://scholar.google.com/citations?user=bWqc6Z8AAAAJ&hl).
+My research insterests are focused on machine learning and its applications (e.g. computer vision, imaging, etc). 
+A selection of my publications is below. The full list can be found at my [Google Scholar page](https://scholar.google.com/citations?user=bWqc6Z8AAAAJ&hl).
 
 <div style="font-size: 16px; line-height: 1.3;">
 
