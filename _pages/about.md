@@ -21,7 +21,7 @@ My research insterests are focused on machine learning and its applications (e.g
     <div style="margin-bottom: 10px;">
         <strong>EgoPrivacy: What Your First-Person Camera Says About You</strong><br>
         Yijiang Li, Genpei Zhang, <em>Jiacheng Cheng</em> (✉️), Yi Li, Xiaojun Shan, Dashan Gao, Jiancheng Lyu, Yuan Li, Ning Bi, Nuno Vasconcelos<br>
-        ICML 2025  | <a href="https://proceedings.mlr.press/v267/li25ds.html">[PMLR]</a> 
+        ICML 2025  | <a href="https://proceedings.mlr.press/v267/li25ds.html">[PMLR]</a> |  <a href="">[CODE]</a>
     </div>
     
     <div style="margin-bottom: 10px;">
@@ -33,7 +33,7 @@ My research insterests are focused on machine learning and its applications (e.g
     <div style="margin-bottom: 10px;">
         <strong>Towards Calibrated Multi-label Deep Neural Networks</strong><br>
         <em>Jiacheng Cheng</em> (✉️) and Nuno Vasconcelos<br>
-        CVPR 2024 |  <a href="../papers/cvpr24.pdf">[PDF]</a>
+        CVPR 2024 |  <a href="../papers/cvpr24.pdf">[PDF]</a> |  <a href="">[CODE]</a>
     </div>
 
     <div style="margin-bottom: 10px;">
@@ -45,13 +45,13 @@ My research insterests are focused on machine learning and its applications (e.g
     <div style="margin-bottom: 10px;">
         <strong>Learning Deep Classifiers Consistent with Fine-Grained Novelty Detection</strong><br>
         <em>Jiacheng Cheng</em> (✉️), Nuno Vasconcelos<br>
-        CVPR 2021 |  <a href="../papers/cvpr21.pdf">[PDF]</a>
+        CVPR 2021 |  <a href="../papers/cvpr21.pdf">[PDF]</a> |  <a href="">[CODE]</a>
     </div>
 
     <div style="margin-bottom: 10px;">
         <strong>Learning with Bounded Instance- and Label-dependent Label Noise</strong><br>
         <em>Jiacheng Cheng</em>, Tongliang Liu, Kotagiri Ramamohanarao, Dacheng Tao<br>
-        ICML 2020 | <a href="https://proceedings.mlr.press/v119/cheng20c.html">[PMLR]</a> | <a href="../papers/icml20.pdf">[PDF]</a>
+        ICML 2020 | <a href="https://proceedings.mlr.press/v119/cheng20c.html">[PMLR]</a> | <a href="../papers/icml20.pdf">[PDF]</a> |  <a href="">[CODE]</a>
     </div>
 
     <div style="font-size: 14px; margin-top: 15px;">
