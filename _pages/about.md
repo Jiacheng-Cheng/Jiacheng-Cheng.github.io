@@ -32,9 +32,8 @@ My research interests broadly span machine learning, computer vision, and imagin
     <div style="margin-bottom: 10px;">
         <strong>Learning a Dynamic Privacy-preserving Camera Robust to Inversion Attacks</strong><br>
         <em>Jiacheng Cheng</em> (✉️), Xiang Dai, Jia Wan, Nick Antipa, Nuno Vasconcelos<br>
-        ECCV 2024 <span style="color:red; font-weight:bold;">(Oral Presentation)</span>  |  <a href="../assets/papers/eccv24.pdf">[PDF]</a>
+        ECCV 2024 <span style="color:red; font-weight:bold;">(Oral Presentation)</span>  |  <a href="../assets/papers/eccv24.pdf">[PDF]</a> | <a href="https://github.com/JiachengCheng96/DyPP">[CODE]</a>
     </div>
-
     <div style="margin-bottom: 10px;">
         <strong>Towards Calibrated Multi-label Deep Neural Networks</strong><br>
         <em>Jiacheng Cheng</em> (✉️) and Nuno Vasconcelos<br>
