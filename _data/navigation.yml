@@ -24,7 +24,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: ..assets/cv/CV - Jiacheng Cheng.pdf
+    url: assets/cv/CV - Jiacheng Cheng.pdf
     
   # - title: "CV"
   #   url: /cv-json/
