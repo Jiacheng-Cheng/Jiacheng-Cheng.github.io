@@ -24,9 +24,15 @@ My research interests broadly span machine learning, computer vision, and imagin
 <div style="font-size: 16px; line-height: 1.3;">
 
     <div style="margin-bottom: 10px;">
+        <strong>Leveraging Data to Say No: Memory Augmented Plug-and-Play Selective Prediction </strong><br>
+        Aditya Sarkar, Yi Li, <em>Jiacheng Cheng</em> (✉️), Shlok Mishra, Nuno Vasconcelos<br>
+        ICLR 2026  | <a href="https://openreview.net/forum?id=2OcklgJiU0">[OpenReview]</a> |  <a href="https://github.com/kingston-aditya/MA-PaPSP">[CODE]</a>
+    </div>
+
+    <div style="margin-bottom: 10px;">
         <strong>EgoPrivacy: What Your First-Person Camera Says About You</strong><br>
         Yijiang Li, Genpei Zhang, <em>Jiacheng Cheng</em> (✉️), Yi Li, Xiaojun Shan, Dashan Gao, Jiancheng Lyu, Yuan Li, Ning Bi, Nuno Vasconcelos<br>
-        ICML 2025  | <a href="https://proceedings.mlr.press/v267/li25ds.html">[PMLR]</a> |  <a href="">[CODE]</a>
+        ICML 2025  | <a href="https://proceedings.mlr.press/v267/li25ds.html">[PMLR]</a> |  <a href="https://github.com/williamium3000/ego-privacy">[CODE]</a>
     </div>
     
     <div style="margin-bottom: 10px;">
