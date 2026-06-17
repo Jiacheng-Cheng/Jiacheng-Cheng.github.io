@@ -8,9 +8,11 @@ redirect_from:
 ---
 
 <style>
-/* Override the default max-width to make the page wider */
 .page__content {
-    max-width: 100% !important; /* Set to 100% or a specific pixel value like 1200px */
+    max-width: 100% !important;
+}
+#publications strong {
+    font-size: 17px;
 }
 </style>
 I am currently a Postdoctoral Researcher at Yale University, advised by [Tara Boroushaki](https://taraboroushaki.com/). Prior to this, I earned my PhD from  [Statistical Visual Computing Lab](http://www.svcl.ucsd.edu/) at [University of California San Diego](https://ucsd.edu/) in 2025, under [Nuno Vasconcelos](http://www.svcl.ucsd.edu/~nuno/). I received my undergraduate degree from [University of Science and Technology of China](https://en.ustc.edu.cn/) in 2018.
@@ -21,7 +23,7 @@ I am currently a Postdoctoral Researcher at Yale University, advised by [Tara Bo
 
 My research interests broadly span machine learning, computer vision, and imaging. A selection of my publications is listed below; the full publication record is available on my [Google Scholar page](https://scholar.google.com/citations?user=bWqc6Z8AAAAJ&hl).
 
-<div style="font-size: 16px; line-height: 1.3;">
+<div id="publications" style="font-size: 16px; line-height: 1.3;">
 
     <div style="margin-bottom: 10px;">
         <strong>An Attribute-Based Measure of Video Complexity</strong><br>
