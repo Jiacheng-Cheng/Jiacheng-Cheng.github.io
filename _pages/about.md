@@ -69,3 +69,9 @@ My research interests broadly span machine learning, computer vision, and imagin
     </div>
 
 </div>
+
+<br>
+
+<div style="text-align: center; margin-top: 30px;">
+  <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=REPLACE_WITH_YOUR_ID&cl=ffffff&w=400"></script>
+</div>
