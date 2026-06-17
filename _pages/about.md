@@ -73,5 +73,5 @@ My research interests broadly span machine learning, computer vision, and imagin
 <br>
 
 <div style="margin-top: 30px; display: flex; justify-content: flex-start;">
-  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=k8TEt5TdbQ0dk14kD3sFMt-U5qT_IYL7BUBY7_mLZAc&cl=ffffff&w=300"></script>
+  <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=k8TEt5TdbQ0dk14kD3sFMt-U5qT_IYL7BUBY7_mLZAc'></script>
 </div>
