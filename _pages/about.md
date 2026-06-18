@@ -41,7 +41,7 @@ My research interests broadly span machine learning, computer vision, and imagin
 
 <div id="publications" style="font-size: 16px; line-height: 1.3;">
 
-    <div style="font-size: 17px; font-weight: bold; margin-top: 10px; margin-bottom: 12px;">Trustworthy Machine Learning</div>
+    <h2>Trustworthy Machine Learning</h2>
 
     <div style="margin-bottom: 10px;">
         <strong>An Attribute-Based Measure of Video Complexity</strong><br>
