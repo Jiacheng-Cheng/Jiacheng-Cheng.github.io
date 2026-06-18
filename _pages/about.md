@@ -41,6 +41,8 @@ My research interests broadly span machine learning, computer vision, and imagin
 
 <div id="publications" style="font-size: 16px; line-height: 1.3;">
 
+    <div style="font-size: 17px; font-weight: bold; margin-top: 10px; margin-bottom: 12px;">Trustworthy Machine Learning</div>
+
     <div style="margin-bottom: 10px;">
         <strong>An Attribute-Based Measure of Video Complexity</strong><br>
         Aditya Sarkar, Yi Li, Zihao Wang, <u>Jiacheng Cheng</u>, Sai Vidyaranya Nuthalapati, Aashu Singh, Shlok Kumar Mishra, David Jacobs, Nuno Vasconcelos<br>
@@ -53,17 +55,6 @@ My research interests broadly span machine learning, computer vision, and imagin
         ICLR 2026  | <a href="https://openreview.net/forum?id=2OcklgJiU0">[OpenReview]</a> |  <a href="https://github.com/kingston-aditya/MA-PaPSP">[CODE]</a>
     </div>
 
-    <div style="margin-bottom: 10px;">
-        <strong>EgoPrivacy: What Your First-Person Camera Says About You</strong><br>
-        Yijiang Li, Genpei Zhang, <u>Jiacheng Cheng</u> (✉️), Yi Li, Xiaojun Shan, Dashan Gao, Jiancheng Lyu, Yuan Li, Ning Bi, Nuno Vasconcelos<br>
-        ICML 2025  | <a href="https://proceedings.mlr.press/v267/li25ds.html">[PMLR]</a> |  <a href="https://github.com/williamium3000/ego-privacy">[CODE]</a>
-    </div>
-    
-    <div style="margin-bottom: 10px;">
-        <strong>Learning a Dynamic Privacy-preserving Camera Robust to Inversion Attacks</strong><br>
-        <u>Jiacheng Cheng</u> (✉️), Xiang Dai, Jia Wan, Nick Antipa, Nuno Vasconcelos<br>
-        ECCV 2024 <span style="color:red; font-weight:bold;">(Oral Presentation, 200 orals / 8585 submissions ≈ 2.3%)</span>  |  <a href="../assets/papers/eccv24.pdf">[PDF]</a> | <a href="https://github.com/JiachengCheng96/DyPP">[CODE]</a>
-    </div>
     <div style="margin-bottom: 10px;">
         <strong>Towards Calibrated Multi-label Deep Neural Networks</strong><br>
         <u>Jiacheng Cheng</u> (✉️) and Nuno Vasconcelos<br>
@@ -86,6 +77,20 @@ My research interests broadly span machine learning, computer vision, and imagin
         <strong>Learning with Bounded Instance- and Label-dependent Label Noise</strong><br>
         <u>Jiacheng Cheng</u>, Tongliang Liu, Kotagiri Ramamohanarao, Dacheng Tao<br>
         ICML 2020 | <a href="https://proceedings.mlr.press/v119/cheng20c.html">[PMLR]</a> | <a href="../assets/papers/icml20.pdf">[PDF]</a> |  <a href="https://github.com/JiachengCheng96/Learning-with-bounded-instance-and-label-dependent-label-noise">[CODE]</a>
+    </div>
+
+    <div style="font-size: 17px; font-weight: bold; margin-top: 20px; margin-bottom: 12px;">Privacy-Preserving Computer Vision</div>
+
+    <div style="margin-bottom: 10px;">
+        <strong>EgoPrivacy: What Your First-Person Camera Says About You</strong><br>
+        Yijiang Li, Genpei Zhang, <u>Jiacheng Cheng</u> (✉️), Yi Li, Xiaojun Shan, Dashan Gao, Jiancheng Lyu, Yuan Li, Ning Bi, Nuno Vasconcelos<br>
+        ICML 2025  | <a href="https://proceedings.mlr.press/v267/li25ds.html">[PMLR]</a> |  <a href="https://github.com/williamium3000/ego-privacy">[CODE]</a>
+    </div>
+
+    <div style="margin-bottom: 10px;">
+        <strong>Learning a Dynamic Privacy-preserving Camera Robust to Inversion Attacks</strong><br>
+        <u>Jiacheng Cheng</u> (✉️), Xiang Dai, Jia Wan, Nick Antipa, Nuno Vasconcelos<br>
+        ECCV 2024 <span style="color:red; font-weight:bold;">(Oral Presentation, 200 orals / 8585 submissions ≈ 2.3%)</span>  |  <a href="../assets/papers/eccv24.pdf">[PDF]</a> | <a href="https://github.com/JiachengCheng96/DyPP">[CODE]</a>
     </div>
 
     <div style="font-size: 14px; margin-top: 15px;">
