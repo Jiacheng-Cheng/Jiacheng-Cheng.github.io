@@ -58,7 +58,7 @@ My research interests broadly span machine learning, computer vision, and imagin
     <div style="margin-bottom: 10px;">
         <strong>Learning a Dynamic Privacy-preserving Camera Robust to Inversion Attacks</strong><br>
         <strong><em>Jiacheng Cheng</em></strong> (✉️), Xiang Dai, Jia Wan, Nick Antipa, Nuno Vasconcelos<br>
-        ECCV 2024 <span style="color:red; font-weight:bold;">(Oral Presentation, 200 orals / 8,585 submissions ≈ 2.3%)</span>  |  <a href="../assets/papers/eccv24.pdf">[PDF]</a> | <a href="https://github.com/JiachengCheng96/DyPP">[CODE]</a>
+        ECCV 2024 <span style="color:red; font-weight:bold;">(Oral Presentation, 200 orals / 8585 submissions ≈ 2.3%)</span>  |  <a href="../assets/papers/eccv24.pdf">[PDF]</a> | <a href="https://github.com/JiachengCheng96/DyPP">[CODE]</a>
     </div>
     <div style="margin-bottom: 10px;">
         <strong>Towards Calibrated Multi-label Deep Neural Networks</strong><br>
@@ -69,7 +69,7 @@ My research interests broadly span machine learning, computer vision, and imagin
     <div style="margin-bottom: 10px;">
         <strong>Calibrating Deep Neural Networks by Pairwise Constraints</strong><br>
         <strong><em>Jiacheng Cheng</em></strong> (✉️), Nuno Vasconcelos<br>
-        CVPR 2022 <span style="color:red; font-weight:bold;">(Oral Presentation, 342 orals /8,161 submissions ≈ 4.2%)</span> |  <a href="../assets/papers/cvpr22.pdf">[PDF]</a>
+        CVPR 2022 <span style="color:red; font-weight:bold;">(Oral Presentation, 342 orals / 8161 submissions ≈ 4.2%)</span> |  <a href="../assets/papers/cvpr22.pdf">[PDF]</a>
     </div>
 
     <div style="margin-bottom: 10px;">
