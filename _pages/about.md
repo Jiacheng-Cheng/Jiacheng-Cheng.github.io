@@ -79,7 +79,7 @@ My research interests broadly span machine learning, computer vision, and imagin
         ICML 2020 | <a href="https://proceedings.mlr.press/v119/cheng20c.html">[PMLR]</a> | <a href="../assets/papers/icml20.pdf">[PDF]</a> |  <a href="https://github.com/JiachengCheng96/Learning-with-bounded-instance-and-label-dependent-label-noise">[CODE]</a>
     </div>
 
-    <div style="font-size: 17px; font-weight: bold; margin-top: 20px; margin-bottom: 12px;">Privacy-Preserving Computer Vision</div>
+    <h2>Privacy-Preserving Computer Vision</h2>
 
     <div style="margin-bottom: 10px;">
         <strong>EgoPrivacy: What Your First-Person Camera Says About You</strong><br>
