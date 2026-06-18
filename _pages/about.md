@@ -14,6 +14,18 @@ redirect_from:
 #publications strong {
     font-size: 17px;
 }
+
+/* 使文章标题字号与正文相同 */
+h1,
+.page__title,
+.post-title,
+.page-title,
+.title,
+.entry-title {
+    font-size: 16px !important;
+    font-weight: normal !important;
+    margin-bottom: 0.5rem !important;
+}
 </style>
 I am currently a Postdoctoral Researcher at Yale University, advised by [Tara Boroushaki](https://taraboroushaki.com/). Prior to this, I earned my PhD from  [Statistical Visual Computing Lab](http://www.svcl.ucsd.edu/) at [University of California San Diego](https://ucsd.edu/) in 2025, under [Nuno Vasconcelos](http://www.svcl.ucsd.edu/~nuno/). I received my undergraduate degree from [University of Science and Technology of China](https://en.ustc.edu.cn/) in 2018.
 
@@ -28,7 +40,7 @@ My research interests broadly span machine learning, computer vision, and imagin
     <div style="margin-bottom: 10px;">
         <strong>An Attribute-Based Measure of Video Complexity</strong><br>
         Aditya Sarkar, Yi Li, Zihao Wang, <strong><em>Jiacheng Cheng</em></strong>, Sai Vidyaranya Nuthalapati, Aashu Singh, Shlok Kumar Mishra, David Jacobs, Nuno Vasconcelos<br>
-        arXiv 2025  | <a href="https://arxiv.org/abs/2606.00640">[arXiv]</a>
+        arXiv 2026  | <a href="https://arxiv.org/abs/2606.00640">[arXiv]</a>
     </div>
 
     <div style="margin-bottom: 10px;">
