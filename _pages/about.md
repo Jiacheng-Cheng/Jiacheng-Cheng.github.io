@@ -15,17 +15,6 @@ redirect_from:
     font-size: 17px;
 }
 
-/* 使文章标题字号与正文相同 */
-h1,
-.page__title,
-.post-title,
-.page-title,
-.title,
-.entry-title {
-    font-size: 16px !important;
-    font-weight: normal !important;
-    margin-bottom: 0.5rem !important;
-}
 
 #publications u {
     text-decoration: underline !important;
