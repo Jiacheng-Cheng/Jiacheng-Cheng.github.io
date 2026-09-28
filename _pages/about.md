@@ -20,28 +20,27 @@ redirect_from:
     text-decoration: underline !important;
 }
 
-#news {
+#news-list {
     font-size: 16px;
     line-height: 1.4;
     max-height: 200px;
     overflow-y: auto;
-    padding: 5px 15px 5px 5px;
-    border-left: 3px solid #e8e8e8;
+    padding: 0;
 }
-#news ul {
+#news-list ul {
     list-style: none;
     margin: 0;
     padding: 0;
 }
-#news li {
+#news-list li {
     margin-bottom: 8px;
     padding-left: 0;
 }
-#news .news-date {
+#news-list .news-date {
     display: inline-block;
     min-width: 85px;
     font-weight: bold;
-    color: #666;
+    opacity: 0.7;
 }
 </style>
 I am currently a Postdoctoral Researcher at Yale University, advised by [Tara Boroushaki](https://taraboroushaki.com/). Prior to this, I earned my PhD from  [Statistical Visual Computing Lab](http://www.svcl.ucsd.edu/) at [University of California San Diego](https://ucsd.edu/) in 2025, under [Nuno Vasconcelos](http://www.svcl.ucsd.edu/~nuno/). I received my undergraduate degree from [University of Science and Technology of China](https://en.ustc.edu.cn/) in 2018.
@@ -50,9 +49,9 @@ I am currently a Postdoctoral Researcher at Yale University, advised by [Tara Bo
 
 # News
 
-<div id="news">
+<div id="news-list">
 <ul>
-    <li><span class="news-date">Sep 2026</span> I will serve as an <strong>Area Chair</strong> for <strong>ICLR 2027</strong>.</li>
+    <li><span class="news-date">Sep 2026</span> I will serve as an <strong>Area Chair</strong> for <a href="https://iclr.cc/Conferences/2027"><strong>ICLR 2027</strong></a>.</li>
 </ul>
 </div>
 
