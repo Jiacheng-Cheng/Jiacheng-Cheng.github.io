@@ -11,6 +11,13 @@ redirect_from:
 .page__content {
     max-width: 100% !important;
 }
+/* section headings: smaller than the page title, with clear separation */
+.page__content > h1 {
+    font-size: 1.35em;
+    margin: 2.2em 0 0.7em;
+    padding-bottom: 0.25em;
+    border-bottom: 1px solid var(--global-border-color);
+}
 #publications strong {
     font-size: 17px;
 }
