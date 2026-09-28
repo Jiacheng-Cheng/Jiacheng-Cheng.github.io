@@ -11,12 +11,19 @@ redirect_from:
 .page__content {
     max-width: 100% !important;
 }
-/* section headings: smaller than the page title, with clear separation */
+/* level 1: page sections (News, Research Interests) -- ruled underline */
 .page__content > h1 {
-    font-size: 1.35em;
+    font-size: 1.45em;
     margin: 2.2em 0 0.7em;
     padding-bottom: 0.25em;
     border-bottom: 1px solid var(--global-border-color);
+}
+/* level 2: subsections within a page section -- no rule, clearly smaller */
+#publications h2 {
+    font-size: 1.2em;
+    margin: 1.7em 0 0.6em;
+    padding-bottom: 0;
+    border-bottom: none;
 }
 #publications strong {
     font-size: 17px;
