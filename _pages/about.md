@@ -11,15 +11,15 @@ redirect_from:
 .page__content {
     max-width: 100% !important;
 }
-/* level 1: page sections (News, Research Interests) -- ruled underline */
+/* level 1: page sections (Research Interests) -- ruled underline */
 .page__content > h1 {
     font-size: 1.45em;
     margin: 2.2em 0 0.7em;
     padding-bottom: 0.25em;
     border-bottom: 1px solid var(--global-border-color);
 }
-/* level 2: subsections within a page section -- no rule, clearly smaller */
-#publications h2 {
+/* level 2: subsections (News, Trustworthy ML, etc.) -- no rule, clearly smaller */
+.page__content h2 {
     font-size: 1.2em;
     margin: 1.7em 0 0.6em;
     padding-bottom: 0;
@@ -61,7 +61,7 @@ I am currently a Postdoctoral Researcher at Yale University, advised by [Tara Bo
 
 
 
-# News
+## News
 
 <div id="news-list">
 <ul>
