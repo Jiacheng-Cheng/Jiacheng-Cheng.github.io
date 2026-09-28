@@ -51,7 +51,7 @@ I am currently a Postdoctoral Researcher at Yale University, advised by [Tara Bo
 
 <div id="news-list">
 <ul>
-    <li><span class="news-date">Sep 2026</span> I will serve as an <strong>Area Chair</strong> for <a href="https://iclr.cc/Conferences/2027"><strong>ICLR 2027</strong></a>.</li>
+    <li><span class="news-date">Sep 2026</span> I will serve as an Area Chair for <a href="https://iclr.cc/Conferences/2027">ICLR 2027</a>.</li>
 </ul>
 </div>
 
